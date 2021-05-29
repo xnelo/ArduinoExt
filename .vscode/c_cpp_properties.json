@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+				"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\tools\\**",
+                "C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\\\hardware\\tools\\**",
+				"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\\\hardware\\arduino\\avr\\cores\\arduino",
+				"C:\\Users\\Spencer_2\\Documents\\Arduino\\libraries\\**"
+            
+
+
+				//"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\libraries\\Firmata\\**",
+                //"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\tools\\**",
+                //"C:\\Users\\Spencer_2\\Documents\\Arduino\\libraries\\**",
+                //"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\libraries\\**",
+                //"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\tools\\**",
+				//"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\arduino\\avr\\**"
+				//"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\tools\\avr\\avr\\include\\**",
+				//"C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\arduino\\avr\\cores\\arduino\\**"
+            ],
+            "defines": [
+				"USBCON",
+				"ARDUINO=100"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:\\Users\\Spencer_2\\Desktop\\arduino-1.8.10-windows\\arduino-1.8.10\\\\hardware\\tools\\avr\\bin\\avr-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
