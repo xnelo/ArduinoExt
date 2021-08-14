@@ -17,10 +17,8 @@ namespace ArduinoExt
 			enum class MessageType: uint8_t
 			{
 				Unknown = 0,
-				AckSuccess = 1,
-				AckFail = 2,
-				String = 3,
-				MESSAGE_TYPE_MAX = 63
+				Data = 1,
+				Debug = 2
 			};
 		}
 	}
